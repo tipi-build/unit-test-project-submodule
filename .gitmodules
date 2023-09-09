@@ -4,3 +4,4 @@
 [submodule "2ndsubmodule"]
 	path = 2ndsubmodule
 	url = ../../tipi-build/unit-test-project-2ndsubmodule.git
+	ignore = dirty
