@@ -1,7 +1,3 @@
 [submodule "submodule"]
 	path = submodule
 	url = ../../tipi-build/unit-test-project-submodule-submodule.git
-[submodule "2ndsubmodule"]
-	path = 2ndsubmodule
-	url = ../../tipi-build/unit-test-project-2ndsubmodule.git
-	ignore = dirty
