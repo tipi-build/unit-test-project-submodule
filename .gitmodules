@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = ../../tipi-build/unit-test-project-submodule-submodule.git
+[submodule "submodule-2nd"]
+	path = submodule-2nd
+	url = ../../tipi-build/unit-test-project-submodule-2nd.git
