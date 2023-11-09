@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = ../../tipi-build/unit-test-project-submodule-submodule.git
+[submodule "broken-submodule"]
+	path = broken-submodule
+	url = https://github.com/tipi-build/unit-test-cpp-compile-error

@@ -1,8 +1,8 @@
-#include <submodule/print_to_console.hpp>
+#include <iostream>
 
 int main(int argc, const char** argv) {
   
-  submodule::print_to_console();
+  std::cout<<"Compile without any submodule"<<std::endl;
 
   return 0;
 } 
