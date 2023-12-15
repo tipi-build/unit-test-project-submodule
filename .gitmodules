@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = ../../tipi-build/unit-test-project-submodule-submodule.git
+[submodule "404submodule"]
+	path = 404submodule
+	url = https://github.com/Lambourl/404submodule
